@@ -1,0 +1,45 @@
+Welcome to the TitouCraft wiki! 
+The Titoucraft mod is full of useful mods, here they are:
+
+Botania (by vazkii)
+
+Just enough items (JEI) (by mezz)
+
+Quark (by vazkii)
+
+Coral tombstone (by corail_31)
+
+AutoRegLib (by vazkii)
+
+Mowzie's Mobs (by bobmowzie)
+
+Hwyla (by tehnut)
+
+Obfuscate (by mrcrayfish)
+
+MrCrayfish's gun mod (by mrcrayfish)
+
+Wings (by pau101)
+
+Patchouli (by vazkii)
+
+Curios API (Forge) (by theillusivec4)
+
+Create (by simibubi)
+
+Citadel (by sbom_xela)
+
+Rare Ice (Forge/Fabric) (by shedaniel)
+
+Structure Gel API (by moddinglegacy)
+
+GeckoLib (by thanosgecko)
+
+Untamed Wilds (by raytrace82)
+
+Dungeons Enhanced (by valarauko9)
+
+Flywheel (by jozufozu)
+
+Immersive Armor [Fabric/Forge] (by conczin)
+
